@@ -1,0 +1,46 @@
+<svg width="793" height="835" viewBox="0 0 793 835" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_133_780)">
+<path d="M33.2294 488.499C-0.961401 550.874 97.3724 661.492 101.998 664.913L115.48 713.475L724.563 715.878C733.535 697.28 755.866 646.829 773.409 593.808C790.953 540.786 743.791 530.279 718.017 531.653C697.695 429.002 610.074 462.537 568.804 492.136C578.397 423.127 528.232 380.465 491.941 380.134C462.908 379.869 448.863 410.662 445.47 426.092C447.082 383.434 432.373 299.726 360.634 306.156C288.896 312.586 279.487 396.598 283.749 437.801C279.297 410.275 253.018 354.361 183.516 350.92C114.014 347.479 129.114 445.916 145.351 495.565C119.374 472.418 60.582 438.599 33.2294 488.499Z" fill="#5886FF"/>
+</g>
+<rect x="-44" y="38" width="806" height="26" fill="#FF5858"/>
+<rect x="-35" y="406" width="589" height="26" fill="#FF5858"/>
+<rect width="150" height="402" transform="matrix(-1 0 0 1 182 433)" fill="white"/>
+<rect x="23" y="64" width="197" height="254" fill="white"/>
+<rect x="334" y="64" width="410" height="161" fill="white"/>
+<ellipse cx="533.5" cy="373" rx="14.5" ry="14" fill="white"/>
+<ellipse cx="524.5" cy="15" rx="14.5" ry="14" fill="white"/>
+<ellipse cx="691.5" cy="14" rx="14.5" ry="14" fill="white"/>
+<ellipse cx="747.5" cy="15" rx="14.5" ry="14" fill="white"/>
+<ellipse cx="478" cy="373.5" rx="14" ry="14.5" fill="white"/>
+<ellipse cx="469" cy="15.5" rx="14" ry="14.5" fill="white"/>
+<ellipse cx="636" cy="14.5" rx="14" ry="14.5" fill="white"/>
+<ellipse cx="422.5" cy="374" rx="14.5" ry="14" fill="white"/>
+<ellipse cx="413.5" cy="16" rx="14.5" ry="14" fill="white"/>
+<ellipse cx="580.5" cy="15" rx="14.5" ry="14" fill="white"/>
+<circle cx="366.5" cy="374.5" r="14.5" fill="white"/>
+<circle cx="357.5" cy="16.5" r="14.5" fill="white"/>
+<circle cx="311" cy="374" r="14" fill="white"/>
+<circle cx="302" cy="16" r="14" fill="white"/>
+<circle cx="256" cy="374" r="14" fill="white"/>
+<circle cx="247" cy="16" r="14" fill="white"/>
+<circle cx="201" cy="373" r="14" fill="white"/>
+<circle cx="192" cy="15" r="14" fill="white"/>
+<circle cx="146" cy="375" r="14" fill="white"/>
+<circle cx="137" cy="17" r="14" fill="white"/>
+<circle cx="91" cy="375" r="14" fill="white"/>
+<circle cx="82" cy="17" r="14" fill="white"/>
+<circle cx="36" cy="375" r="14" fill="white"/>
+<circle cx="27" cy="17" r="14" fill="white"/>
+<defs>
+<filter id="filter0_d_133_780" x="22.0234" y="305.806" width="759.203" height="418.073" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_133_780"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_133_780" result="shape"/>
+</filter>
+</defs>
+</svg>

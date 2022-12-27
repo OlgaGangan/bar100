@@ -1,0 +1,406 @@
+html {
+  height: 6000px;
+}
+body {
+  margin: 0 auto;
+  padding: 0;
+  height: 100%;
+  width: 1550px;
+  font-family: "AzoftSansRegular";
+  overflow-x: hidden;
+  background: #000A23;
+}
+.sec {
+  position: sticky;
+  top: 0;
+}
+.people {
+  position: absolute;
+  weight: 100%;
+  height: 100%;
+  top: 50px;
+  right: 200px;
+}
+
+.block1 {
+  position: relative;
+  width: 100%;
+  height: 2053px;
+
+}
+    /* animation1 */
+      .ss {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 55px;
+        top: 145px;
+        animation-name: ss;
+        animation-duration: 1s;
+        animation-iteration-count: infinite;
+        animation-direction: alternate-reverse;
+        background-repeat: no-repeat;
+      }
+      @keyframes ss {
+        from {background-image: url(../images/s1.svg);}
+        to {background-image: url(../images/s.svg);}
+      }
+/* animatoin2 */
+
+      .cc {
+        position: absolute;
+        width: 100%;
+        height:100%;
+        left: 448px;
+        top: 121px;
+        animation-name: cc;
+        animation-duration: 1s;
+        animation-iteration-count: infinite;
+        animation-direction: alternate-reverse;
+        background-repeat: no-repeat;
+
+      }
+      @keyframes cc {
+        from {background-image: url(../images/cto1.svg);}
+        to {background-image: url(../images/cto.svg);}
+      }
+/* animation3 */
+      .bb {
+        position: absolute;
+        width: 100%;
+        height:100%;
+        left: 55px;
+        top: 580px;
+        animation-name: bb;
+        animation-duration: 1s;
+        animation-iteration-count: infinite;
+        animation-direction: alternate-reverse;
+        background-repeat: no-repeat;
+      }
+      @keyframes bb {
+        from {background-image: url(../images/b1.svg);}
+        to {background-image: url(../images/b.svg);}
+      }
+
+
+.podves {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0px;
+  top: 35px;
+}
+
+.kust {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 1243px;
+  top: 687px;
+}
+
+.dver {
+  position: absolute;
+  width: 100%;
+  height: 100%x;
+  left: -15px;
+  top: 847px;
+}
+
+.kartina1{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 405px;
+  top: 1035px;
+}
+
+.kartina2 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 949px;
+  top: 1445px;
+}
+
+.text1 {
+  position: absolute;
+
+left: 194px;
+top: 533px;
+
+font-family: 'AzoftSansRegular';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 80px;
+color: #FFFFFF;
+}
+
+.block2 {
+  position: relative;
+width: 100%;
+height: 2053px;
+}
+/* animatio banks */
+
+.stol {
+  position: absolute;
+width: 100%;
+height: 100%;
+left: 0px;
+top: 247px;
+}
+
+.but {
+  position: absolute;
+  width: 69px;
+  height: 114px;
+  top: 1286px;
+  left: 185.5px;
+  animation-name: but;
+  animation-duration: .7s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+  animation-direction: alternate-reverse;
+
+}
+@keyframes but {
+  from {opacity: 0%;}
+  to {opacity: 100%;}
+}
+
+.but2 {
+  position: absolute;
+  width: 69px;
+  height: 114px;
+  top: 1213px;
+  left: 443.5px;
+  animation-name: but2;
+  animation-duration: .7s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+  animation-direction: alternate-reverse;
+
+}
+@keyframes but2 {
+  from {opacity: 0%;}
+  to {opacity: 100%;}
+}
+
+
+
+/* kapla1anim */
+.kapla1 {
+  top: 1307px;
+  left: 870px;
+  position: absolute;
+  animation-name: kapla1;
+  animation-duration: 1.8s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+
+}
+
+@keyframes kapla1 {
+  0% {left:870px; top:1307px; opacity: 0%;}
+  25% {left:870px; top:1407px; opacity: 90%;}
+  50% {left:870px; top:1496.5px; opacity: 100%;}
+  75% {left:870px; top:1607px; opacity: 90%;}
+  100% {left:870px; top:1686px;opacity: 0%}
+}
+
+/* kapla2anim */
+.kapla2 {
+  top: 1307px;
+  left: 850px;
+  position: absolute;
+  animation-name: kapla2;
+  animation-duration: 1.8s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-delay: 1s;
+}
+
+@keyframes kapla2 {
+  0% {left:850px; top:1307px; opacity: 0%;}
+  25% {left:850px; top:1407px; opacity: 90%;}
+  50% {left:850px; top:1496.5px; opacity: 100%;}
+  75% {left:850px; top:1607px; opacity: 90%;}
+  100% {left:850px; top:1686px;opacity: 0%}
+}
+
+.polka {
+  position: absolute;
+width: 100%;
+height: 100%;
+left: -18px;
+top: -545px;
+}
+
+.ba1 {
+position: absolute;
+width: 87.5px;
+height: 151.5px;
+left: 109px;
+top: 734px;
+}
+
+.ba2 {
+position: absolute;
+width: 126.5px;
+height: 101.5px;
+left: 662px;
+top: 798px;
+}
+
+.ba3 {
+position: absolute;
+width: 93.5px;
+height: 201.5px;
+left: 109px;
+top: 1226px;
+}
+
+.ba4 {
+position: absolute;
+width: 113.5px;
+height: 201.5px;
+left: 565px;
+top: 1239px;
+}
+
+.ba5 {
+position: absolute;
+width: 113.5px;
+height: 201.5px;
+left: 707px;
+top: 1239px;
+}
+.baa {
+opacity: 0;
+transition-property: opacity;
+transition-duration: .2s;
+transition-timing-function: ease-out;
+
+}
+
+.baa:hover {
+  opacity: 100%;
+}
+
+.block3 {
+    position: relative;
+  width: 100%;
+  height: 2215px;
+  left: 0px;
+
+}
+
+.text2 {
+  position: absolute;
+
+  left: 45px;
+  top: 1183px;
+
+  font-family: 'AzoftSansRegular';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 50px;
+
+  color: #FFFFFF;
+
+}
+ .text3{
+   position: absolute;
+
+  left: 557.57px;
+  top:2037px;
+
+  font-family: 'AzoftSansRegular';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 50px;
+
+  color: #FFFFFF;
+
+ }
+ .text4{
+   position: absolute;
+
+  left: 557.57px;
+  top: 1961px;
+
+  font-family: 'AzoftSansRegular';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 68.8889px;
+  line-height: 80px;
+
+
+  color: #FFFFFF;
+ }
+.fon {
+  position: absolute;
+width: 100%;
+height: 100%;
+
+}
+.setka1 {
+  position: absolute;
+  width: 176.89px;
+  height: 253px;
+  left: 587px;
+  top: 288px;
+}
+.setka2 {
+  position: absolute;
+  width: 176.89px;
+  height: 253px;
+  left: 852px;
+  top: 564px;
+}
+.setka3 {
+  position: absolute;
+  width: 214.89px;
+  height: 240px;
+  left: 1077px;
+  top: 318px;
+}
+.setka4 {
+  position: absolute;
+  width: 210.89px;
+  height: 222px;
+  left: 42px;
+  top: 881px;
+}
+.setka5 {
+  position: absolute;
+  width: 189.89px;
+  height: 241px;
+  left: 1356px;
+  top: 596px;
+}
+
+.setka {
+opacity: 0;
+transition-property: opacity;
+transition-duration: 1s;
+transition-timing-function: ease-out;
+
+}
+
+.setka:hover {
+  opacity: 100%;
+}
+
+.post {
+  position: absolute;
+  width: 100%;
+  height: 1083.18px;
+  left: 0;
+  top: 1132px;
+}
+}

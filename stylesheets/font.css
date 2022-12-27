@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "AzoftSansRegular";
+    src: url("../fonts/AzoftSansRegular/AzoftSansRegular.eot");
+    src: url("../fonts/AzoftSansRegular/AzoftSansRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/AzoftSansRegular/AzoftSansRegular.woff") format("woff"),
+    url("../fonts/AzoftSansRegular/AzoftSansRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
